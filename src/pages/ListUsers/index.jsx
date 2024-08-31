@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { Button } from "../../components/Button/styles";
 import { useEffect, useState } from "react";
 import api from "../../services/api";
@@ -59,21 +59,3 @@ function ListUsers() {
   );
 }
 
-export default ListUsers;
-=======
-import { Button } from "../../components/Button/styles"
-
-
-function  ListUsers () {
-    
-    return(
-        <div>
-            <h1>Listagem de Usuários</h1>
-            <Button>clicar</Button>
-        </div>
-    )
-}
-
-
-export default ListUsers
->>>>>>> 76d22f992e40bfce33374361f92747276953da81
