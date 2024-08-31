@@ -15,7 +15,10 @@ export const Tilte = styled.h2`
   font-weight: 700;
 `;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 76d22f992e40bfce33374361f92747276953da81
 export const Form = styled.form`
   display: flex;
   flex-direction: column; // uma abaixo do outro
